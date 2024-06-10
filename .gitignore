@@ -6,3 +6,5 @@ __pycache__
 *.ipynb
 ag_news_csv
 *.npy
+FNLP_lab_3_data
+*.json
