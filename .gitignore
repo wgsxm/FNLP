@@ -8,3 +8,7 @@ ag_news_csv
 *.npy
 FNLP_lab_3_data
 *.json
+dish-name-recognition
+project/temp
+project/log_base
+project/log_retrieve
